@@ -1,0 +1,1658 @@
+﻿{
+  "location": {
+    "continent": {
+      "code": "NA",
+      "geoname_id": 6255149,
+      "names": {
+        "de": "Nordamerika",
+        "en": "North America",
+        "es": "Norteamérica",
+        "fr": "Amérique du Nord",
+        "ja": "北アメリカ",
+        "pt-BR": "América do Norte",
+        "ru": "Северная Америка",
+        "zh-CN": "北美洲"
+      }
+    },
+    "country": {
+      "geoname_id": 6252001,
+      "iso_code": "US",
+      "names": {
+        "de": "USA",
+        "en": "United States",
+        "es": "Estados Unidos",
+        "fr": "États-Unis",
+        "ja": "アメリカ合衆国",
+        "pt-BR": "Estados Unidos",
+        "ru": "США",
+        "zh-CN": "美国"
+      }
+    },
+    "location": {
+      "accuracy_radius": 1000,
+      "latitude": 37.751,
+      "longitude": -97.822
+    },
+    "registered_country": {
+      "geoname_id": 6252001,
+      "iso_code": "US",
+      "names": {
+        "de": "USA",
+        "en": "United States",
+        "es": "Estados Unidos",
+        "fr": "États-Unis",
+        "ja": "アメリカ合衆国",
+        "pt-BR": "Estados Unidos",
+        "ru": "США",
+        "zh-CN": "美国"
+      }
+    }
+  },
+  "totalAmount": {
+    "confidenceLevel": 0.53,
+    "index": 37,
+    "data": 71.38,
+    "text": "**** BALANCE  71.38",
+    "regions": [
+      [
+        {
+          "x": 178,
+          "y": 712
+        },
+        {
+          "x": 290,
+          "y": 713
+        },
+        {
+          "x": 290,
+          "y": 736
+        },
+        {
+          "x": 178,
+          "y": 734
+        }
+      ],
+      [
+        {
+          "x": 446,
+          "y": 715
+        },
+        {
+          "x": 490,
+          "y": 717
+        },
+        {
+          "x": 489,
+          "y": 736
+        },
+        {
+          "x": 445,
+          "y": 734
+        }
+      ]
+    ],
+    "currencyCode": "USD"
+  },
+  "taxAmount": {
+    "index": 9,
+    "data": 5.29,
+    "text": "SEASDBK BUNS  5.29 F",
+    "regions": [
+      [
+        {
+          "x": 247,
+          "y": 220
+        },
+        {
+          "x": 346,
+          "y": 223
+        },
+        {
+          "x": 345,
+          "y": 241
+        },
+        {
+          "x": 246,
+          "y": 238
+        }
+      ],
+      [
+        {
+          "x": 448,
+          "y": 227
+        },
+        {
+          "x": 495,
+          "y": 227
+        },
+        {
+          "x": 495,
+          "y": 244
+        },
+        {
+          "x": 448,
+          "y": 244
+        }
+      ]
+    ],
+    "currencyCode": "USD",
+    "confidenceLevel": 0.9,
+    "keyword": "SEASDBK BUNS  5.29 F"
+  },
+  "confidenceLevel": 0.8498171682222406,
+  "date": {
+    "confidenceLevel": 0
+  },
+  "text": {
+    "text": "Qrc\nQuality Food Centers\n7525 SW Barnes Road\n503-203-0027\nYour cashier was CHEC 500\nSC  BLUEBERRIES QA 5.99 F\nQFC SAVINGS 1.00\nSTO BABY SPRING MXQA  5.49 F\nSC QFC SAVINGS 1.10\nSEASDBK BUNS  5.29 F\nSCRMN SCLN PIZZA QA 5.00 F\nSC QFC SAVINGS 4.99\nSCRMN SCLN PIZZA QA 5.00 F\nSC QFC SAVINGS 4.99\nSTWBRY ORG QA 2.99 F.\nSC QFC SAVINGS 2.00\nTLMK CHEESE QA 8.99 F\nSC QFC SAVINGS 0.50\nSIMPLE TRUTH EGGS QA 3.49 F\nSC QFC SAVINGS 1.50\nGNOV TUNA  2.99 F\nGNOV TUNA  2.99 F\n1.31 lb @ 1.99 /lb\nWT PEPPERS JALAPENO 2.61 F\nSTN GRD BEEF QA 4.99 F\nSCQFC SAVINGS  2.00\n3.41 lb @ 0.89 /lb\nWT POTATOES RUSSET 3.03 F\n3.15 lb @ 0.79 /lb\nWT ONION YLW COLOSSAL 2.49 F\nYELLOW TAIL SMOOTHQA 9.99\nAge Restricted: 21\nAGE VERIFICATION BYPASSED\nSCQFC SAVINGS 4.00\nQFC ADVANTAGE CUSTOMER *******0098\nMR PAPER BAG FEE NP 0.05\nTAX  0.00\n**** BALANCE  71.38\nPortland OR 97225\nCAPITAL ONE VISA Purchase\n************1161 - C\nREF#: 03549D TOTAL: 71.38\nAID: A0000000031010\nTC: 462393F999607FA?",
+    "regions": [
+      {
+        "x": 141,
+        "y": 7
+      },
+      {
+        "x": 517,
+        "y": 7
+      },
+      {
+        "x": 141,
+        "y": 863
+      },
+      {
+        "x": 517,
+        "y": 863
+      }
+    ]
+  },
+  "amounts": [
+    {
+      "data": 5.99,
+      "index": 5,
+      "regions": [
+        [
+          {
+            "x": 183,
+            "y": 170
+          },
+          {
+            "x": 199,
+            "y": 172
+          },
+          {
+            "x": 197,
+            "y": 187
+          },
+          {
+            "x": 181,
+            "y": 185
+          }
+        ],
+        [
+          {
+            "x": 250,
+            "y": 157
+          },
+          {
+            "x": 494,
+            "y": 166
+          },
+          {
+            "x": 494,
+            "y": 182
+          },
+          {
+            "x": 249,
+            "y": 176
+          }
+        ]
+      ],
+      "text": "SC  BLUEBERRIES QA 5.99 F",
+      "currencyCode": "USD"
+    },
+    {
+      "data": 1,
+      "index": 6,
+      "regions": [
+        [
+          {
+            "x": 249,
+            "y": 173
+          },
+          {
+            "x": 430,
+            "y": 180
+          },
+          {
+            "x": 429,
+            "y": 196
+          },
+          {
+            "x": 248,
+            "y": 192
+          }
+        ]
+      ],
+      "text": "QFC SAVINGS 1.00",
+      "currencyCode": "USD"
+    },
+    {
+      "data": 5.49,
+      "index": 7,
+      "regions": [
+        [
+          {
+            "x": 248,
+            "y": 188
+          },
+          {
+            "x": 412,
+            "y": 194
+          },
+          {
+            "x": 411,
+            "y": 214
+          },
+          {
+            "x": 247,
+            "y": 208
+          }
+        ],
+        [
+          {
+            "x": 447,
+            "y": 196
+          },
+          {
+            "x": 493,
+            "y": 196
+          },
+          {
+            "x": 493,
+            "y": 213
+          },
+          {
+            "x": 447,
+            "y": 213
+          }
+        ]
+      ],
+      "text": "STO BABY SPRING MXQA  5.49 F",
+      "currencyCode": "USD"
+    },
+    {
+      "data": 1.1,
+      "index": 8,
+      "regions": [
+        [
+          {
+            "x": 180,
+            "y": 203
+          },
+          {
+            "x": 430,
+            "y": 211
+          },
+          {
+            "x": 430,
+            "y": 229
+          },
+          {
+            "x": 180,
+            "y": 219
+          }
+        ]
+      ],
+      "text": "SC QFC SAVINGS 1.10",
+      "currencyCode": "USD"
+    },
+    {
+      "data": 5.29,
+      "index": 9,
+      "regions": [
+        [
+          {
+            "x": 247,
+            "y": 220
+          },
+          {
+            "x": 346,
+            "y": 223
+          },
+          {
+            "x": 345,
+            "y": 241
+          },
+          {
+            "x": 246,
+            "y": 238
+          }
+        ],
+        [
+          {
+            "x": 448,
+            "y": 227
+          },
+          {
+            "x": 495,
+            "y": 227
+          },
+          {
+            "x": 495,
+            "y": 244
+          },
+          {
+            "x": 448,
+            "y": 244
+          }
+        ]
+      ],
+      "text": "SEASDBK BUNS  5.29 F",
+      "currencyCode": "USD"
+    },
+    {
+      "data": 5,
+      "index": 10,
+      "regions": [
+        [
+          {
+            "x": 247,
+            "y": 235
+          },
+          {
+            "x": 494,
+            "y": 243
+          },
+          {
+            "x": 494,
+            "y": 261
+          },
+          {
+            "x": 246,
+            "y": 254
+          }
+        ]
+      ],
+      "text": "SCRMN SCLN PIZZA QA 5.00 F",
+      "currencyCode": "USD"
+    },
+    {
+      "data": 4.99,
+      "index": 11,
+      "regions": [
+        [
+          {
+            "x": 178,
+            "y": 251
+          },
+          {
+            "x": 429,
+            "y": 257
+          },
+          {
+            "x": 428,
+            "y": 275
+          },
+          {
+            "x": 178,
+            "y": 266
+          }
+        ]
+      ],
+      "text": "SC QFC SAVINGS 4.99",
+      "currencyCode": "USD"
+    },
+    {
+      "data": 5,
+      "index": 12,
+      "regions": [
+        [
+          {
+            "x": 245,
+            "y": 267
+          },
+          {
+            "x": 496,
+            "y": 275
+          },
+          {
+            "x": 496,
+            "y": 292
+          },
+          {
+            "x": 244,
+            "y": 286
+          }
+        ]
+      ],
+      "text": "SCRMN SCLN PIZZA QA 5.00 F",
+      "currencyCode": "USD"
+    },
+    {
+      "data": 4.99,
+      "index": 13,
+      "regions": [
+        [
+          {
+            "x": 176,
+            "y": 283
+          },
+          {
+            "x": 430,
+            "y": 290
+          },
+          {
+            "x": 430,
+            "y": 307
+          },
+          {
+            "x": 176,
+            "y": 298
+          }
+        ]
+      ],
+      "text": "SC QFC SAVINGS 4.99",
+      "currencyCode": "USD"
+    },
+    {
+      "data": 2.99,
+      "index": 14,
+      "regions": [
+        [
+          {
+            "x": 243,
+            "y": 299
+          },
+          {
+            "x": 504,
+            "y": 306
+          },
+          {
+            "x": 504,
+            "y": 324
+          },
+          {
+            "x": 242,
+            "y": 319
+          }
+        ]
+      ],
+      "text": "STWBRY ORG QA 2.99 F.",
+      "currencyCode": "USD"
+    },
+    {
+      "data": 2,
+      "index": 15,
+      "regions": [
+        [
+          {
+            "x": 175,
+            "y": 316
+          },
+          {
+            "x": 430,
+            "y": 322
+          },
+          {
+            "x": 429,
+            "y": 339
+          },
+          {
+            "x": 175,
+            "y": 331
+          }
+        ]
+      ],
+      "text": "SC QFC SAVINGS 2.00",
+      "currencyCode": "USD"
+    },
+    {
+      "data": 8.99,
+      "index": 16,
+      "regions": [
+        [
+          {
+            "x": 243,
+            "y": 331
+          },
+          {
+            "x": 496,
+            "y": 340
+          },
+          {
+            "x": 496,
+            "y": 357
+          },
+          {
+            "x": 243,
+            "y": 351
+          }
+        ]
+      ],
+      "text": "TLMK CHEESE QA 8.99 F",
+      "currencyCode": "USD"
+    },
+    {
+      "data": 0.5,
+      "index": 17,
+      "regions": [
+        [
+          {
+            "x": 172,
+            "y": 348
+          },
+          {
+            "x": 430,
+            "y": 354
+          },
+          {
+            "x": 429,
+            "y": 372
+          },
+          {
+            "x": 172,
+            "y": 364
+          }
+        ]
+      ],
+      "text": "SC QFC SAVINGS 0.50",
+      "currencyCode": "USD"
+    },
+    {
+      "data": 3.49,
+      "index": 18,
+      "regions": [
+        [
+          {
+            "x": 241,
+            "y": 364
+          },
+          {
+            "x": 498,
+            "y": 372
+          },
+          {
+            "x": 497,
+            "y": 392
+          },
+          {
+            "x": 240,
+            "y": 385
+          }
+        ]
+      ],
+      "text": "SIMPLE TRUTH EGGS QA 3.49 F",
+      "currencyCode": "USD"
+    },
+    {
+      "data": 1.5,
+      "index": 19,
+      "regions": [
+        [
+          {
+            "x": 170,
+            "y": 381
+          },
+          {
+            "x": 430,
+            "y": 388
+          },
+          {
+            "x": 430,
+            "y": 405
+          },
+          {
+            "x": 170,
+            "y": 399
+          }
+        ]
+      ],
+      "text": "SC QFC SAVINGS 1.50",
+      "currencyCode": "USD"
+    },
+    {
+      "data": 2.99,
+      "index": 20,
+      "regions": [
+        [
+          {
+            "x": 239,
+            "y": 398
+          },
+          {
+            "x": 317,
+            "y": 400
+          },
+          {
+            "x": 316,
+            "y": 420
+          },
+          {
+            "x": 238,
+            "y": 418
+          }
+        ],
+        [
+          {
+            "x": 449,
+            "y": 404
+          },
+          {
+            "x": 498,
+            "y": 406
+          },
+          {
+            "x": 498,
+            "y": 424
+          },
+          {
+            "x": 449,
+            "y": 423
+          }
+        ]
+      ],
+      "text": "GNOV TUNA  2.99 F",
+      "currencyCode": "USD"
+    },
+    {
+      "data": 2.99,
+      "index": 21,
+      "regions": [
+        [
+          {
+            "x": 239,
+            "y": 415
+          },
+          {
+            "x": 316,
+            "y": 417
+          },
+          {
+            "x": 315,
+            "y": 435
+          },
+          {
+            "x": 238,
+            "y": 433
+          }
+        ],
+        [
+          {
+            "x": 450,
+            "y": 421
+          },
+          {
+            "x": 499,
+            "y": 423
+          },
+          {
+            "x": 499,
+            "y": 442
+          },
+          {
+            "x": 450,
+            "y": 441
+          }
+        ]
+      ],
+      "text": "GNOV TUNA  2.99 F",
+      "currencyCode": "USD"
+    },
+    {
+      "data": 1.31,
+      "index": 22,
+      "regions": [
+        [
+          {
+            "x": 173,
+            "y": 430
+          },
+          {
+            "x": 233,
+            "y": 432
+          },
+          {
+            "x": 233,
+            "y": 452
+          },
+          {
+            "x": 173,
+            "y": 451
+          }
+        ]
+      ],
+      "text": "1.31 lb @ 1.99 /lb",
+      "currencyCode": "USD"
+    },
+    {
+      "data": 1.99,
+      "index": 22,
+      "regions": [
+        [
+          {
+            "x": 173,
+            "y": 430
+          },
+          {
+            "x": 233,
+            "y": 432
+          },
+          {
+            "x": 233,
+            "y": 452
+          },
+          {
+            "x": 173,
+            "y": 451
+          }
+        ]
+      ],
+      "text": "1.31 lb @ 1.99 /lb",
+      "currencyCode": "USD"
+    },
+    {
+      "data": 2.61,
+      "index": 23,
+      "regions": [
+        [
+          {
+            "x": 164,
+            "y": 450
+          },
+          {
+            "x": 500,
+            "y": 456
+          },
+          {
+            "x": 500,
+            "y": 475
+          },
+          {
+            "x": 164,
+            "y": 467
+          }
+        ]
+      ],
+      "text": "WT PEPPERS JALAPENO 2.61 F",
+      "currencyCode": "USD"
+    },
+    {
+      "data": 4.99,
+      "index": 24,
+      "regions": [
+        [
+          {
+            "x": 237,
+            "y": 468
+          },
+          {
+            "x": 499,
+            "y": 474
+          },
+          {
+            "x": 499,
+            "y": 494
+          },
+          {
+            "x": 237,
+            "y": 487
+          }
+        ]
+      ],
+      "text": "STN GRD BEEF QA 4.99 F",
+      "currencyCode": "USD"
+    },
+    {
+      "data": 2,
+      "index": 25,
+      "regions": [
+        [
+          {
+            "x": 161,
+            "y": 482
+          },
+          {
+            "x": 335,
+            "y": 486
+          },
+          {
+            "x": 335,
+            "y": 507
+          },
+          {
+            "x": 161,
+            "y": 504
+          }
+        ],
+        [
+          {
+            "x": 396,
+            "y": 490
+          },
+          {
+            "x": 430,
+            "y": 489
+          },
+          {
+            "x": 430,
+            "y": 507
+          },
+          {
+            "x": 396,
+            "y": 508
+          }
+        ]
+      ],
+      "text": "SCQFC SAVINGS  2.00",
+      "currencyCode": "USD"
+    },
+    {
+      "data": 3.41,
+      "index": 26,
+      "regions": [
+        [
+          {
+            "x": 171,
+            "y": 501
+          },
+          {
+            "x": 233,
+            "y": 502
+          },
+          {
+            "x": 233,
+            "y": 523
+          },
+          {
+            "x": 171,
+            "y": 522
+          }
+        ]
+      ],
+      "text": "3.41 lb @ 0.89 /lb",
+      "currencyCode": "USD"
+    },
+    {
+      "data": 0.89,
+      "index": 26,
+      "regions": [
+        [
+          {
+            "x": 171,
+            "y": 501
+          },
+          {
+            "x": 233,
+            "y": 502
+          },
+          {
+            "x": 233,
+            "y": 523
+          },
+          {
+            "x": 171,
+            "y": 522
+          }
+        ]
+      ],
+      "text": "3.41 lb @ 0.89 /lb",
+      "currencyCode": "USD"
+    },
+    {
+      "data": 3.03,
+      "index": 27,
+      "regions": [
+        [
+          {
+            "x": 161,
+            "y": 519
+          },
+          {
+            "x": 502,
+            "y": 528
+          },
+          {
+            "x": 501,
+            "y": 546
+          },
+          {
+            "x": 161,
+            "y": 541
+          }
+        ]
+      ],
+      "text": "WT POTATOES RUSSET 3.03 F",
+      "currencyCode": "USD"
+    },
+    {
+      "data": 3.15,
+      "index": 28,
+      "regions": [
+        [
+          {
+            "x": 168,
+            "y": 540
+          },
+          {
+            "x": 231,
+            "y": 540
+          },
+          {
+            "x": 231,
+            "y": 559
+          },
+          {
+            "x": 168,
+            "y": 559
+          }
+        ]
+      ],
+      "text": "3.15 lb @ 0.79 /lb",
+      "currencyCode": "USD"
+    },
+    {
+      "data": 0.79,
+      "index": 28,
+      "regions": [
+        [
+          {
+            "x": 168,
+            "y": 540
+          },
+          {
+            "x": 231,
+            "y": 540
+          },
+          {
+            "x": 231,
+            "y": 559
+          },
+          {
+            "x": 168,
+            "y": 559
+          }
+        ]
+      ],
+      "text": "3.15 lb @ 0.79 /lb",
+      "currencyCode": "USD"
+    },
+    {
+      "data": 2.49,
+      "index": 29,
+      "regions": [
+        [
+          {
+            "x": 155,
+            "y": 556
+          },
+          {
+            "x": 503,
+            "y": 563
+          },
+          {
+            "x": 503,
+            "y": 583
+          },
+          {
+            "x": 155,
+            "y": 578
+          }
+        ]
+      ],
+      "text": "WT ONION YLW COLOSSAL 2.49 F",
+      "currencyCode": "USD"
+    },
+    {
+      "data": 9.99,
+      "index": 30,
+      "regions": [
+        [
+          {
+            "x": 231,
+            "y": 575
+          },
+          {
+            "x": 486,
+            "y": 581
+          },
+          {
+            "x": 485,
+            "y": 605
+          },
+          {
+            "x": 230,
+            "y": 599
+          }
+        ]
+      ],
+      "text": "YELLOW TAIL SMOOTHQA 9.99",
+      "currencyCode": "USD"
+    },
+    {
+      "data": 4,
+      "index": 33,
+      "regions": [
+        [
+          {
+            "x": 150,
+            "y": 633
+          },
+          {
+            "x": 433,
+            "y": 638
+          },
+          {
+            "x": 433,
+            "y": 659
+          },
+          {
+            "x": 150,
+            "y": 656
+          }
+        ]
+      ],
+      "text": "SCQFC SAVINGS 4.00",
+      "currencyCode": "USD"
+    },
+    {
+      "data": 0.05,
+      "index": 35,
+      "regions": [
+        [
+          {
+            "x": 150,
+            "y": 673
+          },
+          {
+            "x": 488,
+            "y": 676
+          },
+          {
+            "x": 488,
+            "y": 699
+          },
+          {
+            "x": 150,
+            "y": 696
+          }
+        ]
+      ],
+      "text": "MR PAPER BAG FEE NP 0.05",
+      "currencyCode": "USD"
+    },
+    {
+      "data": 0,
+      "index": 36,
+      "regions": [
+        [
+          {
+            "x": 227,
+            "y": 694
+          },
+          {
+            "x": 252,
+            "y": 694
+          },
+          {
+            "x": 252,
+            "y": 715
+          },
+          {
+            "x": 227,
+            "y": 715
+          }
+        ],
+        [
+          {
+            "x": 453,
+            "y": 696
+          },
+          {
+            "x": 488,
+            "y": 696
+          },
+          {
+            "x": 488,
+            "y": 716
+          },
+          {
+            "x": 453,
+            "y": 716
+          }
+        ]
+      ],
+      "text": "TAX  0.00",
+      "currencyCode": "USD"
+    },
+    {
+      "data": 71.38,
+      "index": 37,
+      "regions": [
+        [
+          {
+            "x": 178,
+            "y": 712
+          },
+          {
+            "x": 290,
+            "y": 713
+          },
+          {
+            "x": 290,
+            "y": 736
+          },
+          {
+            "x": 178,
+            "y": 734
+          }
+        ],
+        [
+          {
+            "x": 446,
+            "y": 715
+          },
+          {
+            "x": 490,
+            "y": 717
+          },
+          {
+            "x": 489,
+            "y": 736
+          },
+          {
+            "x": 445,
+            "y": 734
+          }
+        ]
+      ],
+      "text": "**** BALANCE  71.38",
+      "currencyCode": "USD"
+    },
+    {
+      "data": 71.38,
+      "index": 41,
+      "regions": [
+        [
+          {
+            "x": 144,
+            "y": 793
+          },
+          {
+            "x": 386,
+            "y": 796
+          },
+          {
+            "x": 386,
+            "y": 820
+          },
+          {
+            "x": 144,
+            "y": 816
+          }
+        ]
+      ],
+      "text": "REF#  03549D TOTAL  71.38",
+      "currencyCode": "USD"
+    }
+  ],
+  "numbers": [
+    {
+      "data": 7525,
+      "text": "7525 SW Barnes Road",
+      "regions": [
+        [
+          {
+            "x": 227,
+            "y": 106
+          },
+          {
+            "x": 380,
+            "y": 111
+          },
+          {
+            "x": 379,
+            "y": 130
+          },
+          {
+            "x": 226,
+            "y": 126
+          }
+        ]
+      ],
+      "index": 2
+    },
+    {
+      "data": 21,
+      "text": "Age Restricted  21",
+      "regions": [
+        [
+          {
+            "x": 155,
+            "y": 596
+          },
+          {
+            "x": 319,
+            "y": 597
+          },
+          {
+            "x": 319,
+            "y": 618
+          },
+          {
+            "x": 155,
+            "y": 617
+          }
+        ]
+      ],
+      "index": 31
+    }
+  ],
+  "lineAmounts": [],
+  "itemsCount": {
+    "data": 12,
+    "confidenceLevel": 0.3064
+  },
+  "entities": {
+    "invoiceNumber": {
+      "data": "503-203-0027",
+      "text": "503-203-0027",
+      "confidenceLevel": 0.51,
+      "keyword": "503-203-0027"
+    },
+    "receiptNumber": {
+      "data": "97225",
+      "confidenceLevel": 0.5790919999999999,
+      "text": "Portland OR 97225",
+      "keyword": "REF#",
+      "index": 38,
+      "regions": [
+        [
+          {
+            "x": 156,
+            "y": 733
+          },
+          {
+            "x": 232,
+            "y": 734
+          },
+          {
+            "x": 232,
+            "y": 755
+          },
+          {
+            "x": 156,
+            "y": 754
+          }
+        ],
+        [
+          {
+            "x": 244,
+            "y": 734
+          },
+          {
+            "x": 261,
+            "y": 734
+          },
+          {
+            "x": 261,
+            "y": 755
+          },
+          {
+            "x": 244,
+            "y": 755
+          }
+        ],
+        [
+          {
+            "x": 273,
+            "y": 735
+          },
+          {
+            "x": 319,
+            "y": 735
+          },
+          {
+            "x": 319,
+            "y": 755
+          },
+          {
+            "x": 273,
+            "y": 755
+          }
+        ]
+      ]
+    }
+  },
+  "paymentType": {
+    "data": "visa",
+    "confidenceLevel": 0.99,
+    "text": "CAPITAL ONE VISA Purchase",
+    "index": 39,
+    "regions": [
+      [
+        {
+          "x": 145,
+          "y": 752
+        },
+        {
+          "x": 210,
+          "y": 753
+        },
+        {
+          "x": 210,
+          "y": 777
+        },
+        {
+          "x": 145,
+          "y": 776
+        }
+      ],
+      [
+        {
+          "x": 224,
+          "y": 753
+        },
+        {
+          "x": 250,
+          "y": 753
+        },
+        {
+          "x": 250,
+          "y": 777
+        },
+        {
+          "x": 224,
+          "y": 777
+        }
+      ],
+      [
+        {
+          "x": 263,
+          "y": 754
+        },
+        {
+          "x": 299,
+          "y": 754
+        },
+        {
+          "x": 299,
+          "y": 777
+        },
+        {
+          "x": 263,
+          "y": 777
+        }
+      ],
+      [
+        {
+          "x": 311,
+          "y": 754
+        },
+        {
+          "x": 386,
+          "y": 755
+        },
+        {
+          "x": 386,
+          "y": 779
+        },
+        {
+          "x": 311,
+          "y": 778
+        }
+      ]
+    ]
+  },
+  "merchantName": {
+    "confidenceLevel": 0
+  },
+  "merchantAddress": {
+    "confidenceLevel": 0
+  },
+  "merchantCity": {
+    "data": "Byrnes Road, Kings",
+    "confidenceLevel": 0.7752,
+    "text": "7525 SW Barnes Road",
+    "index": 2,
+    "regions": [
+      [
+        {
+          "x": 227,
+          "y": 106
+        },
+        {
+          "x": 258,
+          "y": 107
+        },
+        {
+          "x": 257,
+          "y": 127
+        },
+        {
+          "x": 226,
+          "y": 126
+        }
+      ],
+      [
+        {
+          "x": 264,
+          "y": 108
+        },
+        {
+          "x": 283,
+          "y": 109
+        },
+        {
+          "x": 282,
+          "y": 128
+        },
+        {
+          "x": 263,
+          "y": 127
+        }
+      ],
+      [
+        {
+          "x": 293,
+          "y": 108
+        },
+        {
+          "x": 339,
+          "y": 109
+        },
+        {
+          "x": 338,
+          "y": 129
+        },
+        {
+          "x": 292,
+          "y": 128
+        }
+      ],
+      [
+        {
+          "x": 350,
+          "y": 110
+        },
+        {
+          "x": 380,
+          "y": 111
+        },
+        {
+          "x": 379,
+          "y": 130
+        },
+        {
+          "x": 349,
+          "y": 129
+        }
+      ]
+    ]
+  },
+  "merchantState": {
+    "data": "Kings, Prince Edward Island",
+    "confidenceLevel": 0.7752,
+    "text": "7525 SW Barnes Road",
+    "index": 2,
+    "regions": [
+      [
+        {
+          "x": 227,
+          "y": 106
+        },
+        {
+          "x": 258,
+          "y": 107
+        },
+        {
+          "x": 257,
+          "y": 127
+        },
+        {
+          "x": 226,
+          "y": 126
+        }
+      ],
+      [
+        {
+          "x": 264,
+          "y": 108
+        },
+        {
+          "x": 283,
+          "y": 109
+        },
+        {
+          "x": 282,
+          "y": 128
+        },
+        {
+          "x": 263,
+          "y": 127
+        }
+      ],
+      [
+        {
+          "x": 293,
+          "y": 108
+        },
+        {
+          "x": 339,
+          "y": 109
+        },
+        {
+          "x": 338,
+          "y": 129
+        },
+        {
+          "x": 292,
+          "y": 128
+        }
+      ],
+      [
+        {
+          "x": 350,
+          "y": 110
+        },
+        {
+          "x": 380,
+          "y": 111
+        },
+        {
+          "x": 379,
+          "y": 130
+        },
+        {
+          "x": 349,
+          "y": 129
+        }
+      ]
+    ]
+  },
+  "merchantCountryCode": {
+    "data": "CA",
+    "confidenceLevel": 0.7752,
+    "text": "7525 SW Barnes Road",
+    "index": 2,
+    "regions": [
+      [
+        {
+          "x": 227,
+          "y": 106
+        },
+        {
+          "x": 258,
+          "y": 107
+        },
+        {
+          "x": 257,
+          "y": 127
+        },
+        {
+          "x": 226,
+          "y": 126
+        }
+      ],
+      [
+        {
+          "x": 264,
+          "y": 108
+        },
+        {
+          "x": 283,
+          "y": 109
+        },
+        {
+          "x": 282,
+          "y": 128
+        },
+        {
+          "x": 263,
+          "y": 127
+        }
+      ],
+      [
+        {
+          "x": 293,
+          "y": 108
+        },
+        {
+          "x": 339,
+          "y": 109
+        },
+        {
+          "x": 338,
+          "y": 129
+        },
+        {
+          "x": 292,
+          "y": 128
+        }
+      ],
+      [
+        {
+          "x": 350,
+          "y": 110
+        },
+        {
+          "x": 380,
+          "y": 111
+        },
+        {
+          "x": 379,
+          "y": 130
+        },
+        {
+          "x": 349,
+          "y": 129
+        }
+      ]
+    ]
+  },
+  "merchantTypes": {
+    "confidenceLevel": 0
+  },
+  "merchantPostalCode": {
+    "confidenceLevel": 0
+  },
+  "elapsed": 5524.651415000204
+}
